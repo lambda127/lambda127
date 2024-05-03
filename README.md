@@ -15,9 +15,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true" />
 </picture>
-  <div align="right">
-  <a><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+  <a align="right"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
 /></a>
   
-</div>
 </div>
