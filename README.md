@@ -10,7 +10,7 @@
 
 <div align="center">
   <h4>What I'm Studying</h4> 
-   <a><img src="https://img.shields.io/badge/c-black?style=flat&logo=c&logoColor=white"
+   <a><img src="https://img.shields.io/badge/c-%23A8B9CC?style=flat&logo=c&logoColor=white"
 /></a>
    <a ><img src="https://img.shields.io/badge/Dart-blue?style=flat&logo=dart&logoColor=white"
 /></a>
