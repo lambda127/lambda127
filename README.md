@@ -7,9 +7,9 @@
 <hr>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambda127&&theme=dark)<br>
+<div align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&theme=dark) 
-
+</div><div align="right">  
 ```dart
 void main() {
   var profile = Profile();
@@ -30,6 +30,6 @@ class Profile{
   Map<String, String>? address; 
 }
 ```
-
+</div>
 
 
