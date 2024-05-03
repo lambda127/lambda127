@@ -1,8 +1,8 @@
 Let Me Introduce Myself!
 ========================
-###Hi, I'm a software engineering student.
+### Hi, I'm a software engineering student.
 
-```dart
+> ```dart
 void main() {
   var profile = Profile();
   profile.name = 'Jang woojun';
@@ -22,7 +22,7 @@ class Profile{
 }
 ```
 
-<a href="https://github.com/lambda127"><img src="https://img.shields.io/badge/GitHub-%2523E4405F?style=for-the-badge&logo=GitHub&logoColor=white"
+<a href="https://github.com/lambda127"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"
 /><a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
 /><a href="mailto:lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=lambda@smail.kongju.ac.kr"
 /></a>
