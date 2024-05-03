@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <h4>What I'm Studing</h4> 
-   <a><img src="https://img.shields.io/badge/c-deepblue?style=flat&logo=c&logoColor=white"
-/></a><a ><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+  <h4>What I'm Studying</h4> 
+   <a><img src="https://img.shields.io/badge/c-black?style=flat&logo=c&logoColor=white"
+/></a><a ><img src="https://img.shields.io/badge/Dart-sky?style=flat&logo=dart&logoColor=white"
 /></a>
   <br><a><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
 /></a> <a><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
