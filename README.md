@@ -9,7 +9,8 @@
 
 <div align="left">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&theme=dark) 
-</div><div align="right">  
+</div>
+<div align="right">  
 ```dart
 void main() {
   var profile = Profile();
