@@ -16,6 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true" />
 </picture>
   <a align="right"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+/></a><br><a align="right"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+/></a><a align="right"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+/></a><a align="right"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+/></a><br><a align="right"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
 /></a>
   
 </div>
