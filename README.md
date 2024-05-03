@@ -21,6 +21,6 @@ class Profile{
 ```
 
 <a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
-/><a href="lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=lambda@smail.kongju.ac.kr"
+/><a href="mailto:lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=lambda@smail.kongju.ac.kr"
 /></a>
 
