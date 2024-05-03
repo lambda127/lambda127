@@ -6,9 +6,8 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&theme=dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambda127&&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambda127&&theme=dark)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&theme=dark) 
 
 ```dart
 void main() {
