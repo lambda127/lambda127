@@ -23,7 +23,7 @@ class Profile{
 }
 ```
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flambda127&count_bg=black&title_bg=black&icon=github.svg&icon_color=black&title=HITS&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flambda127&count_bg=black&title_bg=black&icon=github.svg&icon_color=white&title=HITS&edge_flat=true"/></a>
 
 <a href="https://github.com/lambda127"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white"
 /><a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
