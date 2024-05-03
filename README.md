@@ -10,6 +10,7 @@ void main() {
   profile.birthday = '2005.12.07';
   profile.language = 'Dart';
   profile.address = {
+    'GitHub' : 'https://www.github.com/lambda127',
     'Email' : 'lambda@smail.kongju.ac.kr',
     'Instagram' : 'https://www.instagram.com/llllambdalll',
   };
