@@ -4,7 +4,7 @@
 /></a> <a href="mailto:lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Email-blue?style=flat&logo=Gmail&logoColor=white&link=lambda@smail.kongju.ac.kr"
 /></a>
 </div>
-- - -
+<hr>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambda127&&theme=dark)<br>
