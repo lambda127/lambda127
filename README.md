@@ -16,10 +16,11 @@
 /></a>
   <br>
   <a><img src="https://img.shields.io/badge/FLutter-blue?style=flat&logo=flutter&logoColor=white"
-/></a> <a><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white"
-/></a> <a><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+/></a>
+  <a><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=notion&logoColor=white"
 /></a>
   
+  <br>
   <br>
   <picture>
   <source
