@@ -9,7 +9,8 @@
 </div>
 
 <div align="center">
-   <a ><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
+  ##### What I'm Studing
+   <a ><img src="https://img.shields.io/badge/c-%23E4405F?style=flat&logo=c&logoColor=white"
 /></a><a ><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
 /></a>
   <br><a><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
@@ -18,7 +19,7 @@
 /></a>
   
   <br>
-  <picture align="right">
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&theme=dark"
   />
