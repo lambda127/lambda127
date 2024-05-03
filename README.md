@@ -20,3 +20,5 @@ class Profile{
 }
 ```
 
+<a href="lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/gmail-#005FF9?style=flat&logo=Email&logoColor=#005FF9"/></a>
+
