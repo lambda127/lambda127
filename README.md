@@ -22,8 +22,8 @@ class Profile{
 }
 ```
 
-<a href="https://github.com/lambda127"><img src="https://img.shields.io/badge/GitHub-#181717?style=for-the-badge&logo=GitHub&logoColor=white"
-/></a><a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
+<a href="https://github.com/lambda127"><img src="https://img.shields.io/badge/GitHub-%2523E4405F?style=for-the-badge&logo=GitHub&logoColor=white"
+/><a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
 /><a href="mailto:lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=lambda@smail.kongju.ac.kr"
 /></a>
 
