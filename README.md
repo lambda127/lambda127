@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  ##### What I'm Studing
+  #### What I'm Studing
   <br>
    <a ><img src="https://img.shields.io/badge/c-%23E4405F?style=flat&logo=c&logoColor=white"
 /></a><a ><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white"
