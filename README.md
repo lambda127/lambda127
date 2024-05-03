@@ -20,5 +20,6 @@ class Profile{
 }
 ```
 
-<a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fllllambdalll"
+/></a>
 
