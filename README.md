@@ -1,5 +1,7 @@
 Let Me Introduce Myself!
 ========================
+###Hi, I'm a software engineering student.
+
 ```dart
 void main() {
   var profile = Profile();
@@ -20,7 +22,8 @@ class Profile{
 }
 ```
 
-<a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
+<a href="https://github.com/lambda127"><img src="https://img.shields.io/badge/Github-#181717?style=for-the-badge&logo=github&logoColor=white"
+/></a><a href="https://www.instagram.com/llllambdalll"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white"
 /><a href="mailto:lambda@smail.kongju.ac.kr"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=lambda@smail.kongju.ac.kr"
 /></a>
 
