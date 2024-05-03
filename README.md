@@ -2,7 +2,7 @@ Let Me Introduce Myself!
 ========================
 ### Hi, I'm a software engineering student.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&bg_color=#000000&title_color=#000000&text_color=#000000&border_color=#000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lambda127&show_icons=true&bg_color=#000000&title_color=#000000&text_color=#000000&border_color=#FFFFFF)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lambda127)](https://github.com/lambda127/github-readme-stats)
 
