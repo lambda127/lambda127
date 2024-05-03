@@ -1,7 +1,6 @@
 Let Me Introduce Myself!
 ========================
-<pre>
-  <code>
+```dart
     void main() {
       var profile = Profile();
       profile.name = 'Jang woojun';
@@ -19,6 +18,5 @@ Let Me Introduce Myself!
       String? language;
       Map<String, String>? address; 
     }
-  </code>
-</pre>
+```
 
