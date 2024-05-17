@@ -14,7 +14,7 @@
 /></a>
    <a ><img src="https://img.shields.io/badge/Dart-blue?style=flat&logo=dart&logoColor=white"
 /></a>
-<a ><img src="https://img.shields.io/badge/JAVA-blue?style=flat&logo=java&logoColor=white"
+<a ><img src="https://img.shields.io/badge/Java-orange?style=flat&logo=oracle&logoColor=white"
 /></a>
   <br>
   <a><img src="https://img.shields.io/badge/FLutter-blue?style=flat&logo=flutter&logoColor=white"
